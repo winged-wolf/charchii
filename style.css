@@ -266,6 +266,7 @@
     height:6rem;
     cursor: pointer;
     transition: 1s;
+    z-index: 1000000;
   }
   #Scrolltop:hover{
     transform: scale(1.1);
